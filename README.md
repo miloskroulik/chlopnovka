@@ -9,5 +9,3 @@ Generates different versions of game named "chlopnovka" from YAML-based descript
 - https://github.com/hoaproject/Graph
 
 Display using https://github.com/mdaines/viz.js
-
-Testme
